@@ -1,0 +1,9 @@
+c:\users\21600252\documents\visual studio 2015\Projects\Lab  1\Lab  1\bin\Debug\Lab  1.exe.config
+c:\users\21600252\documents\visual studio 2015\Projects\Lab  1\Lab  1\bin\Debug\Lab  1.exe
+c:\users\21600252\documents\visual studio 2015\Projects\Lab  1\Lab  1\bin\Debug\Lab  1.pdb
+c:\users\21600252\documents\visual studio 2015\Projects\Lab  1\Lab  1\obj\Debug\Lab  1.csprojResolveAssemblyReference.cache
+c:\users\21600252\documents\visual studio 2015\Projects\Lab  1\Lab  1\obj\Debug\Lab__1.Form1.resources
+c:\users\21600252\documents\visual studio 2015\Projects\Lab  1\Lab  1\obj\Debug\Lab__1.Properties.Resources.resources
+c:\users\21600252\documents\visual studio 2015\Projects\Lab  1\Lab  1\obj\Debug\Lab  1.csproj.GenerateResource.Cache
+c:\users\21600252\documents\visual studio 2015\Projects\Lab  1\Lab  1\obj\Debug\Lab  1.exe
+c:\users\21600252\documents\visual studio 2015\Projects\Lab  1\Lab  1\obj\Debug\Lab  1.pdb

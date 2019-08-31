@@ -1,0 +1,12 @@
+E:\lvl5BA_sem_2\IT5x84_Programming\Labs\Visual Studio 2015\Projects\Lab 08b\Lab 08b\bin\Debug\Lab 08b.exe.config
+E:\lvl5BA_sem_2\IT5x84_Programming\Labs\Visual Studio 2015\Projects\Lab 08b\Lab 08b\bin\Debug\Lab 08b.exe
+E:\lvl5BA_sem_2\IT5x84_Programming\Labs\Visual Studio 2015\Projects\Lab 08b\Lab 08b\bin\Debug\Lab 08b.pdb
+E:\lvl5BA_sem_2\IT5x84_Programming\Labs\Visual Studio 2015\Projects\Lab 08b\Lab 08b\obj\Debug\Lab 08b.csprojResolveAssemblyReference.cache
+E:\lvl5BA_sem_2\IT5x84_Programming\Labs\Visual Studio 2015\Projects\Lab 08b\Lab 08b\obj\Debug\Lab 08b.exe
+E:\lvl5BA_sem_2\IT5x84_Programming\Labs\Visual Studio 2015\Projects\Lab 08b\Lab 08b\obj\Debug\Lab 08b.pdb
+C:\Users\21600252\Documents\Visual Studio 2015\Projects\Lab 08b\Lab 08b\bin\Debug\Lab 08b.exe.config
+C:\Users\21600252\Documents\Visual Studio 2015\Projects\Lab 08b\Lab 08b\obj\Debug\Lab 08b.exe
+C:\Users\21600252\Documents\Visual Studio 2015\Projects\Lab 08b\Lab 08b\obj\Debug\Lab 08b.pdb
+C:\Users\21600252\Documents\Visual Studio 2015\Projects\Lab 08b\Lab 08b\bin\Debug\Lab 08b.exe
+C:\Users\21600252\Documents\Visual Studio 2015\Projects\Lab 08b\Lab 08b\bin\Debug\Lab 08b.pdb
+C:\Users\21600252\Documents\Visual Studio 2015\Projects\Lab 08b\Lab 08b\obj\Debug\Lab 08b.csprojResolveAssemblyReference.cache

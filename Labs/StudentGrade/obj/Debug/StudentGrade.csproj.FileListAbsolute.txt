@@ -1,0 +1,20 @@
+c:\users\tjhiwa\documents\visual studio 2015\Projects\StudentGrade\bin\Debug\StudentGrade.exe.config
+c:\users\tjhiwa\documents\visual studio 2015\Projects\StudentGrade\bin\Debug\StudentGrade.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\StudentGrade\bin\Debug\StudentGrade.pdb
+c:\users\tjhiwa\documents\visual studio 2015\Projects\StudentGrade\obj\Debug\StudentGrade.csprojResolveAssemblyReference.cache
+c:\users\tjhiwa\documents\visual studio 2015\Projects\StudentGrade\obj\Debug\StudentGrade.Properties.Resources.resources
+c:\users\tjhiwa\documents\visual studio 2015\Projects\StudentGrade\obj\Debug\StudentGrade.csproj.GenerateResource.Cache
+c:\users\tjhiwa\documents\visual studio 2015\Projects\StudentGrade\obj\Debug\StudentGrade.exe
+c:\users\tjhiwa\documents\visual studio 2015\Projects\StudentGrade\obj\Debug\StudentGrade.pdb
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\StudentGrade\obj\Debug\StudentGrade.frmMarkCalc.resources
+C:\Users\tjhiwa\Documents\Visual Studio 2015\Projects\StudentGrade\obj\Debug\StudentGrade.frmSalary.resources
+C:\Users\Death Sythe\Documents\Visual Studio 2015\Projects\StudentGrade\bin\Debug\StudentGrade.exe.config
+C:\Users\Death Sythe\Documents\Visual Studio 2015\Projects\StudentGrade\obj\Debug\StudentGrade.exe
+C:\Users\Death Sythe\Documents\Visual Studio 2015\Projects\StudentGrade\obj\Debug\StudentGrade.pdb
+C:\Users\Death Sythe\Documents\Visual Studio 2015\Projects\StudentGrade\bin\Debug\StudentGrade.exe
+C:\Users\Death Sythe\Documents\Visual Studio 2015\Projects\StudentGrade\bin\Debug\StudentGrade.pdb
+C:\Users\Death Sythe\Documents\Visual Studio 2015\Projects\StudentGrade\obj\Debug\StudentGrade.csprojResolveAssemblyReference.cache
+C:\Users\Death Sythe\Documents\Visual Studio 2015\Projects\StudentGrade\obj\Debug\StudentGrade.frmMarkCalc.resources
+C:\Users\Death Sythe\Documents\Visual Studio 2015\Projects\StudentGrade\obj\Debug\StudentGrade.frmSalary.resources
+C:\Users\Death Sythe\Documents\Visual Studio 2015\Projects\StudentGrade\obj\Debug\StudentGrade.Properties.Resources.resources
+C:\Users\Death Sythe\Documents\Visual Studio 2015\Projects\StudentGrade\obj\Debug\StudentGrade.csproj.GenerateResource.Cache
